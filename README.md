@@ -1,1 +1,1 @@
-![tutel GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnVicroryz&show_icons=true&theme=gruvbox)
+![tutel GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnVictoryz&show_icons=true&theme=gruvbox)
