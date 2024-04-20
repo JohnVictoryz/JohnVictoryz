@@ -12,9 +12,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JohnVictoryz&theme=github-dark-dimmed)](https://git.io/streak-stats)
 
-![tutel GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnVictoryz&show_icons=true&theme=gruvbox)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnVictoryz&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)\
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tutel&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![tutel GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnVictoryz&show_icons=true&theme=gruvbox)](https://github.com/JohnVictoryz)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnVictoryz&layout=compact&theme=gruvbox)](https://github.com/JohnVictoryz)\
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tutel&theme=gruvbox&layout=compact)](https://wakatime.com/@tutel)
 
 
 
@@ -23,4 +23,4 @@
 
 ### 👍 Best Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rebelonion&repo=Dantotsu&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rebelonion&repo=Dantotsu&theme=gruvbox)](https://github.com/rebelonion/Dantotsu)
